@@ -1,0 +1,320 @@
+{
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "owner_",
+          "type": "address"
+        },
+        {
+          "internalType": "address",
+          "name": "spender_",
+          "type": "address"
+        },
+        {
+          "internalType": "uint256",
+          "name": "value_",
+          "type": "uint256"
+        },
+        {
+          "internalType": "uint256",
+          "name": "deadline_",
+          "type": "uint256"
+        },
+        {
+          "internalType": "uint8",
+          "name": "v_",
+          "type": "uint8"
+        },
+        {
+          "internalType": "bytes32",
+          "name": "r_",
+          "type": "bytes32"
+        },
+        {
+          "internalType": "bytes32",
+          "name": "s_",
+          "type": "bytes32"
+        }
+      ],
+      "name": "permit",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "ast": {
+    "absolutePath": "interfaces/IEIP2612.sol",
+    "exportedSymbols": {
+      "IEIP2612": [
+        19
+      ]
+    },
+    "id": 20,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".10"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:24:3"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "IEIP2612",
+        "contractDependencies": [],
+        "contractKind": "interface",
+        "fullyImplemented": false,
+        "id": 19,
+        "linearizedBaseContracts": [
+          19
+        ],
+        "name": "IEIP2612",
+        "nameLocation": "69:8:3",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "functionSelector": "d505accf",
+            "id": 18,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "permit",
+            "nameLocation": "94:6:3",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 16,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 3,
+                  "mutability": "mutable",
+                  "name": "owner_",
+                  "nameLocation": "118:6:3",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 18,
+                  "src": "110:14:3",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_address",
+                    "typeString": "address"
+                  },
+                  "typeName": {
+                    "id": 2,
+                    "name": "address",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "110:7:3",
+                    "stateMutability": "nonpayable",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_address",
+                      "typeString": "address"
+                    }
+                  },
+                  "visibility": "internal"
+                },
+                {
+                  "constant": false,
+                  "id": 5,
+                  "mutability": "mutable",
+                  "name": "spender_",
+                  "nameLocation": "142:8:3",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 18,
+                  "src": "134:16:3",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_address",
+                    "typeString": "address"
+                  },
+                  "typeName": {
+                    "id": 4,
+                    "name": "address",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "134:7:3",
+                    "stateMutability": "nonpayable",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_address",
+                      "typeString": "address"
+                    }
+                  },
+                  "visibility": "internal"
+                },
+                {
+                  "constant": false,
+                  "id": 7,
+                  "mutability": "mutable",
+                  "name": "value_",
+                  "nameLocation": "168:6:3",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 18,
+                  "src": "160:14:3",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 6,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "160:7:3",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "visibility": "internal"
+                },
+                {
+                  "constant": false,
+                  "id": 9,
+                  "mutability": "mutable",
+                  "name": "deadline_",
+                  "nameLocation": "192:9:3",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 18,
+                  "src": "184:17:3",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 8,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "184:7:3",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "visibility": "internal"
+                },
+                {
+                  "constant": false,
+                  "id": 11,
+                  "mutability": "mutable",
+                  "name": "v_",
+                  "nameLocation": "217:2:3",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 18,
+                  "src": "211:8:3",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint8",
+                    "typeString": "uint8"
+                  },
+                  "typeName": {
+                    "id": 10,
+                    "name": "uint8",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "211:5:3",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint8",
+                      "typeString": "uint8"
+                    }
+                  },
+                  "visibility": "internal"
+                },
+                {
+                  "constant": false,
+                  "id": 13,
+                  "mutability": "mutable",
+                  "name": "r_",
+                  "nameLocation": "237:2:3",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 18,
+                  "src": "229:10:3",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_bytes32",
+                    "typeString": "bytes32"
+                  },
+                  "typeName": {
+                    "id": 12,
+                    "name": "bytes32",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "229:7:3",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_bytes32",
+                      "typeString": "bytes32"
+                    }
+                  },
+                  "visibility": "internal"
+                },
+                {
+                  "constant": false,
+                  "id": 15,
+                  "mutability": "mutable",
+                  "name": "s_",
+                  "nameLocation": "257:2:3",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 18,
+                  "src": "249:10:3",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_bytes32",
+                    "typeString": "bytes32"
+                  },
+                  "typeName": {
+                    "id": 14,
+                    "name": "bytes32",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "249:7:3",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_bytes32",
+                      "typeString": "bytes32"
+                    }
+                  },
+                  "visibility": "internal"
+                }
+              ],
+              "src": "100:165:3"
+            },
+            "returnParameters": {
+              "id": 17,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "274:0:3"
+            },
+            "scope": 19,
+            "src": "85:190:3",
+            "stateMutability": "nonpayable",
+            "virtual": false,
+            "visibility": "external"
+          }
+        ],
+        "scope": 20,
+        "src": "59:219:3",
+        "usedErrors": []
+      }
+    ],
+    "src": "33:246:3"
+  },
+  "contractName": "IEIP2612",
+  "dependencies": [],
+  "offset": [
+    59,
+    278
+  ],
+  "sha1": "d5a615015a9520d720497c14ff20f1ec139369b0",
+  "source": "// SPDX-License-Identifier: MIT\n\npragma solidity ^0.8.10;\n\ninterface IEIP2612 {\n\n    function permit(\n        address owner_,\n        address spender_,\n        uint256 value_,\n        uint256 deadline_,\n        uint8 v_,\n        bytes32 r_,\n        bytes32 s_\n    ) external;\n\n}\n",
+  "type": "interface"
+}

@@ -1,0 +1,690 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1123pt" height="987pt" viewBox="0.00 0.00 1122.73 987.00">
+<g id="graph0" class="graph" transform="translate(-5.043729782104492,978.4781188964844) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-983 1118.73,-983 1118.73,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterSUPERDEFIDistribution">
+
+<path fill="#445773" stroke="#445773" d="M20,-147C20,-147 1094.73,-147 1094.73,-147 1100.73,-147 1106.73,-153 1106.73,-159 1106.73,-159 1106.73,-822 1106.73,-822 1106.73,-828 1100.73,-834 1094.73,-834 1094.73,-834 20,-834 20,-834 14,-834 8,-828 8,-822 8,-822 8,-159 8,-159 8,-153 14,-147 20,-147" style=""/>
+<text text-anchor="middle" x="557.37" y="-817.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SUPERDEFIDistribution</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterSafeERC20">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M513.96,-8C513.96,-8 666.39,-8 666.39,-8 672.39,-8 678.39,-14 678.39,-20 678.39,-20 678.39,-127 678.39,-127 678.39,-133 672.39,-139 666.39,-139 666.39,-139 513.96,-139 513.96,-139 507.96,-139 501.96,-133 501.96,-127 501.96,-127 501.96,-20 501.96,-20 501.96,-14 507.96,-8 513.96,-8" style=""/>
+<text text-anchor="middle" x="590.17" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SafeERC20</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterStrings">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M774.21,-62C774.21,-62 850.53,-62 850.53,-62 856.53,-62 862.53,-68 862.53,-74 862.53,-74 862.53,-127 862.53,-127 862.53,-133 856.53,-139 850.53,-139 850.53,-139 774.21,-139 774.21,-139 768.21,-139 762.21,-133 762.21,-127 762.21,-127 762.21,-74 762.21,-74 762.21,-68 768.21,-62 774.21,-62" style=""/>
+<text text-anchor="middle" x="812.37" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Strings</text>
+</g>
+<g id="clust4" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="29.76,-842 29.76,-971 384.74,-971 384.74,-842 29.76,-842" style=""/>
+<text text-anchor="middle" x="207.25" y="-954.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- SUPERDEFIDistribution.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="102.76" cy="-783" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="102.76" y="-778.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- SUPERDEFIDistribution.onlyOwner -->
+<g id="node2" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.onlyOwner">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="161.71,-717.54 161.71,-732.46 127.18,-743 78.34,-743 43.81,-732.46 43.81,-717.54 78.34,-707 127.18,-707 161.71,-717.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="165.71,-714.58 165.71,-735.42 127.77,-747 77.75,-747 39.82,-735.42 39.82,-714.58 77.75,-703 127.77,-703 165.71,-714.58" style=""/>
+<text text-anchor="middle" x="102.76" y="-720.8" font-family="Times,serif" font-size="14.00" style="">onlyOwner</text>
+</g>
+<!-- SUPERDEFIDistribution.avoidReentrancy -->
+<g id="node3" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.avoidReentrancy">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="185.3,-655.54 185.3,-670.46 136.95,-681 68.57,-681 20.23,-670.46 20.23,-655.54 68.57,-645 136.95,-645 185.3,-655.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="189.28,-652.32 189.28,-673.68 137.38,-685 68.15,-685 16.24,-673.68 16.24,-652.32 68.15,-641 137.38,-641 189.28,-652.32" style=""/>
+<text text-anchor="middle" x="102.76" y="-658.8" font-family="Times,serif" font-size="14.00" style="">avoidReentrancy</text>
+</g>
+<!-- SUPERDEFIDistribution.acceptOwnership -->
+<g id="node4" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.acceptOwnership">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="102.76" cy="-605" rx="78.14" ry="18" style=""/>
+<text text-anchor="middle" x="102.76" y="-600.8" font-family="Times,serif" font-size="14.00" style="">acceptOwnership</text>
+</g>
+<!-- SUPERDEFIDistribution.OwnershipAccepted -->
+<g id="node30" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.OwnershipAccepted">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="349.74" cy="-762" rx="89.74" ry="18" style=""/>
+<text text-anchor="middle" x="349.74" y="-757.8" font-family="Times,serif" font-size="14.00" style="">OwnershipAccepted</text>
+</g>
+<!-- SUPERDEFIDistribution.acceptOwnership&#45;&gt;SUPERDEFIDistribution.OwnershipAccepted -->
+<g id="edge1" class="edge" data-name="SUPERDEFIDistribution.acceptOwnership-&gt;SUPERDEFIDistribution.OwnershipAccepted">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M164.46,-616.23C173.68,-620.04 182.46,-625.16 189.52,-632 224.34,-665.75 189.23,-702.84 225.52,-735 234.21,-742.7 244.57,-748.36 255.55,-752.51" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="254.74,-755.93 265.34,-755.78 256.96,-749.29 254.74,-755.93" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.proposeOwnership -->
+<g id="node5" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.proposeOwnership">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="102.76" cy="-551" rx="83.97" ry="18" style=""/>
+<text text-anchor="middle" x="102.76" y="-546.8" font-family="Times,serif" font-size="14.00" style="">proposeOwnership</text>
+</g>
+<!-- SUPERDEFIDistribution.OwnershipProposed -->
+<g id="node31" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.OwnershipProposed">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="349.74" cy="-708" rx="89.22" ry="18" style=""/>
+<text text-anchor="middle" x="349.74" y="-703.8" font-family="Times,serif" font-size="14.00" style="">OwnershipProposed</text>
+</g>
+<!-- SUPERDEFIDistribution.proposeOwnership&#45;&gt;SUPERDEFIDistribution.OwnershipProposed -->
+<g id="edge2" class="edge" data-name="SUPERDEFIDistribution.proposeOwnership-&gt;SUPERDEFIDistribution.OwnershipProposed">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M166.21,-562.97C174.79,-566.7 182.91,-571.59 189.52,-578 224.34,-611.75 189.23,-648.84 225.52,-681 234.36,-688.83 244.94,-694.56 256.13,-698.73" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="255.06,-702.06 265.65,-701.87 257.26,-695.41 255.06,-702.06" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.setBaseURI -->
+<g id="node6" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.setBaseURI">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="102.76" cy="-497" rx="57.33" ry="18" style=""/>
+<text text-anchor="middle" x="102.76" y="-492.8" font-family="Times,serif" font-size="14.00" style="">setBaseURI</text>
+</g>
+<!-- SUPERDEFIDistribution.setLockPeriods -->
+<g id="node7" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.setLockPeriods">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="102.76" cy="-443" rx="70.65" ry="18" style=""/>
+<text text-anchor="middle" x="102.76" y="-438.8" font-family="Times,serif" font-size="14.00" style="">setLockPeriods</text>
+</g>
+<!-- SUPERDEFIDistribution.LockPeriodSet -->
+<g id="node32" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.LockPeriodSet">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="349.74" cy="-654" rx="68.36" ry="18" style=""/>
+<text text-anchor="middle" x="349.74" y="-649.8" font-family="Times,serif" font-size="14.00" style="">LockPeriodSet</text>
+</g>
+<!-- SUPERDEFIDistribution.setLockPeriods&#45;&gt;SUPERDEFIDistribution.LockPeriodSet -->
+<g id="edge3" class="edge" data-name="SUPERDEFIDistribution.setLockPeriods-&gt;SUPERDEFIDistribution.LockPeriodSet">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M162.93,-452.68C172.89,-456.64 182.32,-462.2 189.52,-470 238.09,-522.59 174.66,-576.62 225.52,-627 237.88,-639.24 254.43,-646.48 271.38,-650.65" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="270.87,-654.12 281.37,-652.77 272.31,-647.27 270.87,-654.12" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.lock -->
+<g id="node8" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.lock">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="349.74" cy="-318" rx="27.83" ry="18" style=""/>
+<text text-anchor="middle" x="349.74" y="-313.8" font-family="Times,serif" font-size="14.00" style="">lock</text>
+</g>
+<!-- SUPERDEFIDistribution._lock -->
+<g id="node23" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution._lock">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="590.17" cy="-389" rx="32.48" ry="18" style=""/>
+<text text-anchor="middle" x="590.17" y="-384.8" font-family="Times,serif" font-size="14.00" style="">_lock</text>
+</g>
+<!-- SUPERDEFIDistribution.lock&#45;&gt;SUPERDEFIDistribution._lock -->
+<g id="edge6" class="edge" data-name="SUPERDEFIDistribution.lock-&gt;SUPERDEFIDistribution._lock">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M376.56,-323.51C401.72,-329.16 440.92,-338.7 473.96,-350 486.77,-354.38 489.25,-357.32 501.96,-362 517.82,-367.84 535.6,-373.5 550.95,-378.11" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="550.06,-381.5 560.64,-380.99 552.05,-374.79 550.06,-381.5" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.IERC20 -->
+<g id="node33" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.IERC20">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="590.17" cy="-497" rx="42.88" ry="18" style=""/>
+<text text-anchor="middle" x="590.17" y="-492.8" font-family="Times,serif" font-size="14.00" style="">IERC20</text>
+</g>
+<!-- SUPERDEFIDistribution.lock&#45;&gt;SUPERDEFIDistribution.IERC20 -->
+<g id="edge5" class="edge" data-name="SUPERDEFIDistribution.lock-&gt;SUPERDEFIDistribution.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M377.05,-321C405.06,-325.59 448.74,-337.02 473.96,-365 506.29,-400.88 468.49,-435.18 501.96,-470 511.68,-480.12 525.11,-486.46 538.51,-490.44" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="537.66,-493.84 548.22,-492.94 539.4,-487.06 537.66,-493.84" style=""/>
+</g>
+<!-- SafeERC20.safeTransferFrom -->
+<g id="node44" class="node" pointer-events="visible" data-name="SafeERC20.safeTransferFrom">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="590.17" cy="-88" rx="80.43" ry="18" style=""/>
+<text text-anchor="middle" x="590.17" y="-83.8" font-family="Times,serif" font-size="14.00" style="">safeTransferFrom</text>
+</g>
+<!-- SUPERDEFIDistribution.lock&#45;&gt;SafeERC20.safeTransferFrom -->
+<g id="edge4" class="edge" data-name="SUPERDEFIDistribution.lock-&gt;SafeERC20.safeTransferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M377.35,-320.03C405.4,-320.59 448.93,-316.76 473.96,-291 520.61,-242.99 464.29,-198.34 501.96,-143 511.72,-128.66 526.58,-117.3 541.29,-108.71" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="543.3,-111.6 550.38,-103.72 539.93,-105.47 543.3,-111.6" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.lockWithPermit -->
+<g id="node9" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.lockWithPermit">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="349.74" cy="-392" rx="72.94" ry="18" style=""/>
+<text text-anchor="middle" x="349.74" y="-387.8" font-family="Times,serif" font-size="14.00" style="">lockWithPermit</text>
+</g>
+<!-- SUPERDEFIDistribution.lockWithPermit&#45;&gt;SUPERDEFIDistribution._lock -->
+<g id="edge10" class="edge" data-name="SUPERDEFIDistribution.lockWithPermit-&gt;SUPERDEFIDistribution._lock">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M422.6,-391.1C463.36,-390.58 512.94,-389.96 547.35,-389.53" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="547.57,-393.02 557.52,-389.4 547.48,-386.02 547.57,-393.02" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.lockWithPermit&#45;&gt;SUPERDEFIDistribution.IERC20 -->
+<g id="edge9" class="edge" data-name="SUPERDEFIDistribution.lockWithPermit-&gt;SUPERDEFIDistribution.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M416.29,-399.34C436.24,-404 457.28,-411.61 473.96,-424 493.17,-438.28 483.08,-455.29 501.96,-470 512.82,-478.46 526.35,-484.29 539.49,-488.3" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="538.84,-491.75 549.41,-491.02 540.69,-485 538.84,-491.75" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.IEIP2612 -->
+<g id="node34" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.IEIP2612">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="590.17" cy="-443" rx="48.1" ry="18" style=""/>
+<text text-anchor="middle" x="590.17" y="-438.8" font-family="Times,serif" font-size="14.00" style="">IEIP2612</text>
+</g>
+<!-- SUPERDEFIDistribution.lockWithPermit&#45;&gt;SUPERDEFIDistribution.IEIP2612 -->
+<g id="edge7" class="edge" data-name="SUPERDEFIDistribution.lockWithPermit-&gt;SUPERDEFIDistribution.IEIP2612">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M405.44,-403.7C445.32,-412.23 498.99,-423.71 538.02,-432.06" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="537.6,-435.55 548.11,-434.22 539.07,-428.7 537.6,-435.55" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.lockWithPermit&#45;&gt;SafeERC20.safeTransferFrom -->
+<g id="edge8" class="edge" data-name="SUPERDEFIDistribution.lockWithPermit-&gt;SafeERC20.safeTransferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M411.55,-382.35C434.45,-375.63 458.63,-364.26 473.96,-345 530.39,-274.07 452.82,-219.16 501.96,-143 511.28,-128.55 525.89,-117.2 540.5,-108.66" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="542.46,-111.57 549.55,-103.7 539.1,-105.43 542.46,-111.57" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.relock -->
+<g id="node10" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.relock">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="102.76" cy="-173" rx="35.33" ry="18" style=""/>
+<text text-anchor="middle" x="102.76" y="-168.8" font-family="Times,serif" font-size="14.00" style="">relock</text>
+</g>
+<!-- SUPERDEFIDistribution.relock&#45;&gt;SUPERDEFIDistribution._lock -->
+<g id="edge12" class="edge" data-name="SUPERDEFIDistribution.relock-&gt;SUPERDEFIDistribution._lock">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M138.02,-174.2C220.32,-177.79 425.89,-191.24 473.96,-237 515.19,-276.26 463.34,-320.17 501.96,-362 513.71,-374.73 531.33,-381.51 547.66,-385.1" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="547.13,-388.57 557.6,-386.95 548.41,-381.68 547.13,-388.57" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._unlock -->
+<g id="node26" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution._unlock">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="590.17" cy="-335" rx="42.3" ry="18" style=""/>
+<text text-anchor="middle" x="590.17" y="-330.8" font-family="Times,serif" font-size="14.00" style="">_unlock</text>
+</g>
+<!-- SUPERDEFIDistribution.relock&#45;&gt;SUPERDEFIDistribution._unlock -->
+<g id="edge11" class="edge" data-name="SUPERDEFIDistribution.relock-&gt;SUPERDEFIDistribution._unlock">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M133.9,-164.38C202.99,-146.62 374.47,-114.18 473.96,-197 513.06,-229.55 466.95,-271.08 501.96,-308 511.7,-318.27 525.26,-324.66 538.79,-328.63" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="538.03,-332.05 548.58,-331.11 539.75,-325.26 538.03,-332.05" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._updateSUPERDEFIBalance -->
+<g id="node28" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution._updateSUPERDEFIBalance">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="349.74" cy="-526" rx="124.44" ry="18" style=""/>
+<text text-anchor="middle" x="349.74" y="-521.8" font-family="Times,serif" font-size="14.00" style="">_updateSUPERDEFIBalance</text>
+</g>
+<!-- SUPERDEFIDistribution.relock&#45;&gt;SUPERDEFIDistribution._updateSUPERDEFIBalance -->
+<g id="edge15" class="edge" data-name="SUPERDEFIDistribution.relock-&gt;SUPERDEFIDistribution._updateSUPERDEFIBalance">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M137.74,-175.27C155.74,-178.3 176.71,-185.07 189.52,-200 258.05,-279.85 171.33,-343.81 225.52,-434 243.81,-464.43 276.34,-488.07 303.39,-503.76" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="301.89,-506.93 312.32,-508.78 305.31,-500.83 301.89,-506.93" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.relock&#45;&gt;SUPERDEFIDistribution.IERC20 -->
+<g id="edge14" class="edge" data-name="SUPERDEFIDistribution.relock-&gt;SUPERDEFIDistribution.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M137.68,-175.32C155.66,-178.37 176.64,-185.14 189.52,-200 254.14,-274.52 152.29,-352.92 225.52,-419 266.59,-456.05 425.03,-408.21 473.96,-434 491.89,-443.45 485.29,-458.47 501.96,-470 513.39,-477.9 527.21,-483.56 540.46,-487.58" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="539.85,-491.04 550.42,-490.35 541.72,-484.3 539.85,-491.04" style=""/>
+</g>
+<!-- SafeERC20.safeTransfer -->
+<g id="node45" class="node" pointer-events="visible" data-name="SafeERC20.safeTransfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="590.17" cy="-34" rx="59.08" ry="18" style=""/>
+<text text-anchor="middle" x="590.17" y="-29.8" font-family="Times,serif" font-size="14.00" style="">safeTransfer</text>
+</g>
+<!-- SUPERDEFIDistribution.relock&#45;&gt;SafeERC20.safeTransfer -->
+<g id="edge13" class="edge" data-name="SUPERDEFIDistribution.relock-&gt;SafeERC20.safeTransfer">
+
+<path fill="none" stroke="white" stroke-width="2" d="M116.05,-155.97C135.8,-130.15 177.29,-81.9 225.52,-61 323.3,-18.63 449.73,-20.31 524.84,-26.42" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="524.83,-29.94 535.1,-27.31 525.43,-22.96 524.83,-29.94" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.unlock -->
+<g id="node11" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.unlock">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="102.76" cy="-227" rx="37.14" ry="18" style=""/>
+<text text-anchor="middle" x="102.76" y="-222.8" font-family="Times,serif" font-size="14.00" style="">unlock</text>
+</g>
+<!-- SUPERDEFIDistribution.unlock&#45;&gt;SUPERDEFIDistribution._unlock -->
+<g id="edge16" class="edge" data-name="SUPERDEFIDistribution.unlock-&gt;SUPERDEFIDistribution._unlock">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M134.55,-217.49C202.76,-198.44 368.9,-163.41 473.96,-237 501.74,-256.46 477.09,-284.94 501.96,-308 512.34,-317.63 526.09,-323.82 539.6,-327.81" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="538.79,-331.21 549.35,-330.34 540.55,-324.44 538.79,-331.21" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.unlock&#45;&gt;SUPERDEFIDistribution._updateSUPERDEFIBalance -->
+<g id="edge19" class="edge" data-name="SUPERDEFIDistribution.unlock-&gt;SUPERDEFIDistribution._updateSUPERDEFIBalance">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M139.74,-229.78C157.2,-233.02 177.04,-239.82 189.52,-254 249.21,-321.79 173.78,-379.97 225.52,-454 241.5,-476.86 267.25,-493.53 291.09,-505.05" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="289.9,-508.36 300.45,-509.36 292.83,-502 289.9,-508.36" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.unlock&#45;&gt;SUPERDEFIDistribution.IERC20 -->
+<g id="edge18" class="edge" data-name="SUPERDEFIDistribution.unlock-&gt;SUPERDEFIDistribution.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M139.63,-229.88C157.05,-233.15 176.9,-239.95 189.52,-254 244.03,-314.71 164.56,-379.78 225.52,-434 266.91,-470.81 421.04,-437.65 473.96,-454 487.65,-458.23 488.81,-464.29 501.96,-470 515.18,-475.74 530.01,-480.81 543.64,-484.96" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="542.73,-488.34 553.31,-487.82 544.71,-481.63 542.73,-488.34" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.unlock&#45;&gt;SafeERC20.safeTransfer -->
+<g id="edge17" class="edge" data-name="SUPERDEFIDistribution.unlock-&gt;SafeERC20.safeTransfer">
+
+<path fill="none" stroke="white" stroke-width="2" d="M139.65,-223.13C156.65,-219.6 176.12,-212.87 189.52,-200 223.59,-167.28 189.4,-130.44 225.52,-100 311.27,-27.74 363.68,-76.29 473.96,-56 492.12,-52.66 511.88,-48.92 529.82,-45.49" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="530.7,-48.89 539.86,-43.57 529.38,-42.01 530.7,-48.89" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.updateDistribution -->
+<g id="node12" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.updateDistribution">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="102.76" cy="-389" rx="83.41" ry="18" style=""/>
+<text text-anchor="middle" x="102.76" y="-384.8" font-family="Times,serif" font-size="14.00" style="">updateDistribution</text>
+</g>
+<!-- SUPERDEFIDistribution._toUint256Safe -->
+<g id="node25" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution._toUint256Safe">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1026.54" cy="-770" rx="72.38" ry="18" style=""/>
+<text text-anchor="middle" x="1026.54" y="-765.8" font-family="Times,serif" font-size="14.00" style="">_toUint256Safe</text>
+</g>
+<!-- SUPERDEFIDistribution.updateDistribution&#45;&gt;SUPERDEFIDistribution._toUint256Safe -->
+<g id="edge20" class="edge" data-name="SUPERDEFIDistribution.updateDistribution-&gt;SUPERDEFIDistribution._toUint256Safe">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M167.1,-400.71C175.46,-404.48 183.28,-409.45 189.52,-416 232.96,-461.57 177.25,-512.58 225.52,-553 267.99,-588.56 433.66,-535 473.96,-573 539.26,-634.57 434.23,-714.1 501.96,-773 637.54,-890.92 875.91,-824.95 977.5,-788.76" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="978.97,-791.95 987.18,-785.26 976.59,-785.37 978.97,-791.95" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.updateDistribution&#45;&gt;SUPERDEFIDistribution._updateSUPERDEFIBalance -->
+<g id="edge21" class="edge" data-name="SUPERDEFIDistribution.updateDistribution-&gt;SUPERDEFIDistribution._updateSUPERDEFIBalance">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M164.79,-401.18C173.76,-404.88 182.37,-409.71 189.52,-416 218.18,-441.22 196.23,-469.51 225.52,-494 233.15,-500.38 241.91,-505.5 251.16,-509.62" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="249.96,-512.91 260.55,-513.41 252.58,-506.42 249.96,-512.91" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.DistributionUpdated -->
+<g id="node35" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.DistributionUpdated">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="349.74" cy="-600" rx="90.36" ry="18" style=""/>
+<text text-anchor="middle" x="349.74" y="-595.8" font-family="Times,serif" font-size="14.00" style="">DistributionUpdated</text>
+</g>
+<!-- SUPERDEFIDistribution.updateDistribution&#45;&gt;SUPERDEFIDistribution.DistributionUpdated -->
+<g id="edge22" class="edge" data-name="SUPERDEFIDistribution.updateDistribution-&gt;SUPERDEFIDistribution.DistributionUpdated">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M167.25,-400.57C175.58,-404.36 183.36,-409.37 189.52,-416 236.8,-466.84 176.96,-518.38 225.52,-568 234.64,-577.31 246.09,-584.04 258.32,-588.86" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="257.21,-592.18 267.8,-592.2 259.53,-585.58 257.21,-592.18" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.withdrawableOf -->
+<g id="node13" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.withdrawableOf">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="590.17" cy="-679" rx="73.57" ry="18" style=""/>
+<text text-anchor="middle" x="590.17" y="-674.8" font-family="Times,serif" font-size="14.00" style="">withdrawableOf</text>
+</g>
+<!-- SUPERDEFIDistribution._givenWithdrawable -->
+<g id="node29" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution._givenWithdrawable">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="812.37" cy="-679" rx="92.03" ry="18" style=""/>
+<text text-anchor="middle" x="812.37" y="-674.8" font-family="Times,serif" font-size="14.00" style="">_givenWithdrawable</text>
+</g>
+<!-- SUPERDEFIDistribution.withdrawableOf&#45;&gt;SUPERDEFIDistribution._givenWithdrawable -->
+<g id="edge23" class="edge" data-name="SUPERDEFIDistribution.withdrawableOf-&gt;SUPERDEFIDistribution._givenWithdrawable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M664.19,-679C678.88,-679 694.56,-679 710.01,-679" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="710.12,-682.5 720.12,-679 710.12,-675.5 710.12,-682.5" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.batchRelock -->
+<g id="node14" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.batchRelock">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="102.76" cy="-281" rx="59.11" ry="18" style=""/>
+<text text-anchor="middle" x="102.76" y="-276.8" font-family="Times,serif" font-size="14.00" style="">batchRelock</text>
+</g>
+<!-- SUPERDEFIDistribution.batchRelock&#45;&gt;SUPERDEFIDistribution._lock -->
+<g id="edge25" class="edge" data-name="SUPERDEFIDistribution.batchRelock-&gt;SUPERDEFIDistribution._lock">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M151.42,-291.45C164.35,-295.48 177.96,-300.88 189.52,-308 209.06,-320.03 204.76,-335.23 225.52,-345 275.64,-368.58 419.14,-357.11 473.96,-365 499.45,-368.67 527.77,-374.54 549.95,-379.56" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="549.46,-383.04 559.99,-381.87 551.03,-376.22 549.46,-383.04" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._batchUnlock -->
+<g id="node27" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution._batchUnlock">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="349.74" cy="-264" rx="65.41" ry="18" style=""/>
+<text text-anchor="middle" x="349.74" y="-259.8" font-family="Times,serif" font-size="14.00" style="">_batchUnlock</text>
+</g>
+<!-- SUPERDEFIDistribution.batchRelock&#45;&gt;SUPERDEFIDistribution._batchUnlock -->
+<g id="edge24" class="edge" data-name="SUPERDEFIDistribution.batchRelock-&gt;SUPERDEFIDistribution._batchUnlock">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M160.89,-277.04C195.27,-274.65 239.36,-271.59 276.18,-269.04" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="276.63,-272.51 286.36,-268.33 276.14,-265.53 276.63,-272.51" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.batchRelock&#45;&gt;SUPERDEFIDistribution._updateSUPERDEFIBalance -->
+<g id="edge28" class="edge" data-name="SUPERDEFIDistribution.batchRelock-&gt;SUPERDEFIDistribution._updateSUPERDEFIBalance">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M157.25,-288.51C169.28,-292.53 181,-298.66 189.52,-308 240.41,-363.77 177.32,-415.9 225.52,-474 237.66,-488.63 254.62,-499.21 272.1,-506.85" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="271.25,-510.28 281.83,-510.8 273.88,-503.8 271.25,-510.28" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.batchRelock&#45;&gt;SUPERDEFIDistribution.IERC20 -->
+<g id="edge27" class="edge" data-name="SUPERDEFIDistribution.batchRelock-&gt;SUPERDEFIDistribution.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M157.07,-288.68C169.11,-292.69 180.87,-298.78 189.52,-308 235.26,-356.73 174.61,-410.71 225.52,-454 246.62,-471.94 446.53,-470.17 473.96,-474 496.61,-477.16 521.53,-481.97 542.38,-486.37" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="541.75,-489.81 552.26,-488.49 543.22,-482.97 541.75,-489.81" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.batchRelock&#45;&gt;SafeERC20.safeTransfer -->
+<g id="edge26" class="edge" data-name="SUPERDEFIDistribution.batchRelock-&gt;SafeERC20.safeTransfer">
+
+<path fill="none" stroke="white" stroke-width="2" d="M156.24,-273.11C168.44,-269.1 180.49,-263.07 189.52,-254 227.61,-215.75 185.17,-173.86 225.52,-138 309.46,-63.41 375.94,-146.78 473.96,-92 490.16,-82.94 486.31,-70.99 501.96,-61 510.77,-55.38 520.82,-50.86 530.9,-47.25" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="532.13,-50.53 540.53,-44.06 529.93,-43.88 532.13,-50.53" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.batchUnlock -->
+<g id="node15" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.batchUnlock">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="102.76" cy="-335" rx="60.26" ry="18" style=""/>
+<text text-anchor="middle" x="102.76" y="-330.8" font-family="Times,serif" font-size="14.00" style="">batchUnlock</text>
+</g>
+<!-- SUPERDEFIDistribution.batchUnlock&#45;&gt;SUPERDEFIDistribution._batchUnlock -->
+<g id="edge29" class="edge" data-name="SUPERDEFIDistribution.batchUnlock-&gt;SUPERDEFIDistribution._batchUnlock">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M146.91,-322.67C160.67,-318.41 175.86,-313.35 189.52,-308 206,-301.55 208.77,-296.71 225.52,-291 244.15,-284.65 264.87,-279.44 283.93,-275.34" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="284.65,-278.76 293.73,-273.3 283.23,-271.91 284.65,-278.76" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.batchUnlock&#45;&gt;SUPERDEFIDistribution._updateSUPERDEFIBalance -->
+<g id="edge32" class="edge" data-name="SUPERDEFIDistribution.batchUnlock-&gt;SUPERDEFIDistribution._updateSUPERDEFIBalance">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M157.36,-342.98C169.24,-346.99 180.87,-353 189.52,-362 231.68,-405.82 182.26,-451.26 225.52,-494 232.05,-500.44 239.69,-505.64 247.93,-509.82" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="246.51,-513.03 257.06,-513.98 249.41,-506.65 246.51,-513.03" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.batchUnlock&#45;&gt;SUPERDEFIDistribution.IERC20 -->
+<g id="edge31" class="edge" data-name="SUPERDEFIDistribution.batchUnlock-&gt;SUPERDEFIDistribution.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M157.07,-343.25C168.97,-347.26 180.67,-353.2 189.52,-362 226.6,-398.86 184.26,-441.88 225.52,-474 249.49,-492.66 442.16,-496.27 536.92,-496.9" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="537.13,-500.41 547.15,-496.96 537.17,-493.41 537.13,-500.41" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.batchUnlock&#45;&gt;SafeERC20.safeTransfer -->
+<g id="edge30" class="edge" data-name="SUPERDEFIDistribution.batchUnlock-&gt;SafeERC20.safeTransfer">
+
+<path fill="none" stroke="white" stroke-width="2" d="M155.23,-326.01C167.45,-322.02 179.76,-316.28 189.52,-308 216.51,-285.12 199.78,-261.27 225.52,-237 313.14,-154.42 389.66,-214.96 473.96,-129 496.84,-105.67 477.83,-83.04 501.96,-61 509.17,-54.41 517.96,-49.44 527.15,-45.67" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="528.61,-48.86 536.82,-42.17 526.23,-42.28 528.61,-48.86" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.getPoints -->
+<g id="node16" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.getPoints">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="590.17" cy="-733" rx="46.97" ry="18" style=""/>
+<text text-anchor="middle" x="590.17" y="-728.8" font-family="Times,serif" font-size="14.00" style="">getPoints</text>
+</g>
+<!-- SUPERDEFIDistribution._getPoints -->
+<g id="node21" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution._getPoints">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="812.37" cy="-733" rx="51.63" ry="18" style=""/>
+<text text-anchor="middle" x="812.37" y="-728.8" font-family="Times,serif" font-size="14.00" style="">_getPoints</text>
+</g>
+<!-- SUPERDEFIDistribution.getPoints&#45;&gt;SUPERDEFIDistribution._getPoints -->
+<g id="edge33" class="edge" data-name="SUPERDEFIDistribution.getPoints-&gt;SUPERDEFIDistribution._getPoints">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M637.33,-733C670.05,-733 714.28,-733 749.97,-733" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="750.27,-736.5 760.27,-733 750.27,-729.5 750.27,-736.5" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.merge -->
+<g id="node17" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.merge">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="590.17" cy="-281" rx="35.33" ry="18" style=""/>
+<text text-anchor="middle" x="590.17" y="-276.8" font-family="Times,serif" font-size="14.00" style="">merge</text>
+</g>
+<!-- SUPERDEFIDistribution._generateNewTokenId -->
+<g id="node20" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution._generateNewTokenId">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="812.37" cy="-443" rx="99.53" ry="18" style=""/>
+<text text-anchor="middle" x="812.37" y="-438.8" font-family="Times,serif" font-size="14.00" style="">_generateNewTokenId</text>
+</g>
+<!-- SUPERDEFIDistribution.merge&#45;&gt;SUPERDEFIDistribution._generateNewTokenId -->
+<g id="edge38" class="edge" data-name="SUPERDEFIDistribution.merge-&gt;SUPERDEFIDistribution._generateNewTokenId">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M625.13,-283.64C643.26,-286.79 664.6,-293.55 678.39,-308 712.63,-343.87 671.29,-380.97 706.39,-416 711.06,-420.67 716.43,-424.56 722.22,-427.81" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="721.08,-431.15 731.6,-432.4 724.15,-424.86 721.08,-431.15" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._getPointsFromTID -->
+<g id="node22" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution._getPointsFromTID">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="812.37" cy="-227" rx="88.66" ry="18" style=""/>
+<text text-anchor="middle" x="812.37" y="-222.8" font-family="Times,serif" font-size="14.00" style="">_getPointsFromTID</text>
+</g>
+<!-- SUPERDEFIDistribution.merge&#45;&gt;SUPERDEFIDistribution._getPointsFromTID -->
+<g id="edge36" class="edge" data-name="SUPERDEFIDistribution.merge-&gt;SUPERDEFIDistribution._getPointsFromTID">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M622.26,-273.38C654.02,-265.59 704.32,-253.25 745.06,-243.26" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="746.05,-246.62 754.93,-240.84 744.39,-239.82 746.05,-246.62" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.ownerOf -->
+<g id="node36" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.ownerOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="812.37" cy="-335" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="812.37" y="-330.8" font-family="Times,serif" font-size="14.00" style="">ownerOf</text>
+</g>
+<!-- SUPERDEFIDistribution.merge&#45;&gt;SUPERDEFIDistribution.ownerOf -->
+<g id="edge34" class="edge" data-name="SUPERDEFIDistribution.merge-&gt;SUPERDEFIDistribution.ownerOf">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M622.26,-288.62C659.02,-297.64 720.64,-312.75 763.51,-323.26" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="762.89,-326.71 773.43,-325.7 764.55,-319.92 762.89,-326.71" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._burn -->
+<g id="node37" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution._burn">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="812.37" cy="-281" rx="33.63" ry="18" style=""/>
+<text text-anchor="middle" x="812.37" y="-276.8" font-family="Times,serif" font-size="14.00" style="">_burn</text>
+</g>
+<!-- SUPERDEFIDistribution.merge&#45;&gt;SUPERDEFIDistribution._burn -->
+<g id="edge35" class="edge" data-name="SUPERDEFIDistribution.merge-&gt;SUPERDEFIDistribution._burn">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M625.58,-281C664.16,-281 726.78,-281 768.51,-281" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="768.64,-284.5 778.64,-281 768.64,-277.5 768.64,-284.5" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._safeMint -->
+<g id="node38" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution._safeMint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="812.37" cy="-497" rx="50.39" ry="18" style=""/>
+<text text-anchor="middle" x="812.37" y="-492.8" font-family="Times,serif" font-size="14.00" style="">_safeMint</text>
+</g>
+<!-- SUPERDEFIDistribution.merge&#45;&gt;SUPERDEFIDistribution._safeMint -->
+<g id="edge37" class="edge" data-name="SUPERDEFIDistribution.merge-&gt;SUPERDEFIDistribution._safeMint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M625.17,-283.14C643.53,-286.11 665.1,-292.88 678.39,-308 726.61,-362.89 656.84,-416.29 706.39,-470 718.23,-482.84 735.28,-489.91 752.2,-493.72" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="751.64,-497.18 762.12,-495.6 752.95,-490.3 751.64,-497.18" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.pointsOf -->
+<g id="node18" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.pointsOf">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="590.17" cy="-227" rx="44.67" ry="18" style=""/>
+<text text-anchor="middle" x="590.17" y="-222.8" font-family="Times,serif" font-size="14.00" style="">pointsOf</text>
+</g>
+<!-- SUPERDEFIDistribution.pointsOf&#45;&gt;SUPERDEFIDistribution._getPointsFromTID -->
+<g id="edge40" class="edge" data-name="SUPERDEFIDistribution.pointsOf-&gt;SUPERDEFIDistribution._getPointsFromTID">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M635.2,-227C657.57,-227 685.72,-227 712.9,-227" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="713.26,-230.5 723.26,-227 713.26,-223.5 713.26,-230.5" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._exists -->
+<g id="node39" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution._exists">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="812.37" cy="-173" rx="37.72" ry="18" style=""/>
+<text text-anchor="middle" x="812.37" y="-168.8" font-family="Times,serif" font-size="14.00" style="">_exists</text>
+</g>
+<!-- SUPERDEFIDistribution.pointsOf&#45;&gt;SUPERDEFIDistribution._exists -->
+<g id="edge39" class="edge" data-name="SUPERDEFIDistribution.pointsOf-&gt;SUPERDEFIDistribution._exists">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M629.03,-217.72C667.8,-208.21 727.96,-193.46 768.47,-183.52" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="769.44,-186.89 778.32,-181.1 767.78,-180.09 769.44,-186.89" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.tokenURI -->
+<g id="node19" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.tokenURI">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="590.17" cy="-173" rx="49.24" ry="18" style=""/>
+<text text-anchor="middle" x="590.17" y="-168.8" font-family="Times,serif" font-size="14.00" style="">tokenURI</text>
+</g>
+<!-- SUPERDEFIDistribution.tokenURI&#45;&gt;SUPERDEFIDistribution._exists -->
+<g id="edge41" class="edge" data-name="SUPERDEFIDistribution.tokenURI-&gt;SUPERDEFIDistribution._exists">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M639.5,-173C676.48,-173 727.22,-173 763.98,-173" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="764.43,-176.5 774.43,-173 764.43,-169.5 764.43,-176.5" style=""/>
+</g>
+<!-- Strings.toString -->
+<g id="node46" class="node" pointer-events="visible" data-name="Strings.toString">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="812.37" cy="-88" rx="42.32" ry="18" style=""/>
+<text text-anchor="middle" x="812.37" y="-83.8" font-family="Times,serif" font-size="14.00" style="">toString</text>
+</g>
+<!-- SUPERDEFIDistribution.tokenURI&#45;&gt;Strings.toString -->
+<g id="edge42" class="edge" data-name="SUPERDEFIDistribution.tokenURI-&gt;Strings.toString">
+
+<path fill="none" stroke="white" stroke-width="2" d="M627.42,-161.08C643.16,-155.77 661.76,-149.29 678.39,-143 710.54,-130.83 746.55,-115.86 772.98,-104.6" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="774.44,-107.79 782.26,-100.64 771.69,-101.35 774.44,-107.79" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.totalSupply -->
+<g id="node40" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.totalSupply">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1026.54" cy="-443" rx="55.64" ry="18" style=""/>
+<text text-anchor="middle" x="1026.54" y="-438.8" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
+</g>
+<!-- SUPERDEFIDistribution._generateNewTokenId&#45;&gt;SUPERDEFIDistribution.totalSupply -->
+<g id="edge43" class="edge" data-name="SUPERDEFIDistribution._generateNewTokenId-&gt;SUPERDEFIDistribution.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M912,-443C928.45,-443 945.13,-443 960.46,-443" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="960.84,-446.5 970.84,-443 960.84,-439.5 960.84,-446.5" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._lock&#45;&gt;SUPERDEFIDistribution._generateNewTokenId -->
+<g id="edge45" class="edge" data-name="SUPERDEFIDistribution._lock-&gt;SUPERDEFIDistribution._generateNewTokenId">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M620.41,-396.17C651.43,-403.78 701.53,-416.06 742.64,-426.14" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="742.06,-429.61 752.6,-428.59 743.72,-422.81 742.06,-429.61" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._lock&#45;&gt;SUPERDEFIDistribution._getPoints -->
+<g id="edge46" class="edge" data-name="SUPERDEFIDistribution._lock-&gt;SUPERDEFIDistribution._getPoints">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M622.58,-390.33C641.71,-392.9 664.98,-399.53 678.39,-416 719.27,-466.2 664.3,-656.8 706.39,-706 717.43,-718.91 733.74,-726.07 750.23,-729.93" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="749.98,-733.45 760.47,-731.94 751.33,-726.58 749.98,-733.45" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._toInt256Safe -->
+<g id="node24" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution._toInt256Safe">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1026.54" cy="-691" rx="66" ry="18" style=""/>
+<text text-anchor="middle" x="1026.54" y="-686.8" font-family="Times,serif" font-size="14.00" style="">_toInt256Safe</text>
+</g>
+<!-- SUPERDEFIDistribution._lock&#45;&gt;SUPERDEFIDistribution._toInt256Safe -->
+<g id="edge48" class="edge" data-name="SUPERDEFIDistribution._lock-&gt;SUPERDEFIDistribution._toInt256Safe">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M622.82,-390.54C641.8,-393.22 664.81,-399.87 678.39,-416 740.73,-490.06 636.76,-564.75 706.39,-632 740.42,-664.87 872.2,-641.6 918.36,-652 939.51,-656.76 962.18,-664.59 981.2,-671.98" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="979.91,-675.24 990.5,-675.68 982.49,-668.73 979.91,-675.24" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._lock&#45;&gt;SUPERDEFIDistribution._safeMint -->
+<g id="edge44" class="edge" data-name="SUPERDEFIDistribution._lock-&gt;SUPERDEFIDistribution._safeMint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M622.27,-392.58C640.34,-396.03 662.58,-402.78 678.39,-416 699.13,-433.34 685.23,-453.17 706.39,-470 719.68,-480.58 736.65,-487.05 753.05,-491" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="752.65,-494.49 763.16,-493.15 754.1,-487.65 752.65,-494.49" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.Position -->
+<g id="node41" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.Position">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="812.37" cy="-551" rx="42.9" ry="18" style=""/>
+<text text-anchor="middle" x="812.37" y="-546.8" font-family="Times,serif" font-size="14.00" style="">Position</text>
+</g>
+<!-- SUPERDEFIDistribution._lock&#45;&gt;SUPERDEFIDistribution.Position -->
+<g id="edge47" class="edge" data-name="SUPERDEFIDistribution._lock-&gt;SUPERDEFIDistribution.Position">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M622.57,-391.21C641.21,-394.16 663.94,-400.87 678.39,-416 712.63,-451.87 671.29,-488.97 706.39,-524 720.39,-537.97 740.59,-545.02 759.54,-548.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="759.18,-551.97 769.59,-550.02 760.24,-545.05 759.18,-551.97" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.LockPositionCreated -->
+<g id="node42" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.LockPositionCreated">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="812.37" cy="-605" rx="92.64" ry="18" style=""/>
+<text text-anchor="middle" x="812.37" y="-600.8" font-family="Times,serif" font-size="14.00" style="">LockPositionCreated</text>
+</g>
+<!-- SUPERDEFIDistribution._lock&#45;&gt;SUPERDEFIDistribution.LockPositionCreated -->
+<g id="edge49" class="edge" data-name="SUPERDEFIDistribution._lock-&gt;SUPERDEFIDistribution.LockPositionCreated">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M622.59,-390.74C641.48,-393.49 664.47,-400.16 678.39,-416 726.61,-470.89 656.84,-524.29 706.39,-578 711.39,-583.42 717.32,-587.81 723.78,-591.37" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="722.34,-594.56 732.87,-595.71 725.35,-588.24 722.34,-594.56" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._unlock&#45;&gt;SUPERDEFIDistribution._givenWithdrawable -->
+<g id="edge51" class="edge" data-name="SUPERDEFIDistribution._unlock-&gt;SUPERDEFIDistribution._givenWithdrawable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M631.78,-337.9C648.7,-341.27 667.03,-348.15 678.39,-362 754.9,-455.28 635.64,-534.28 706.39,-632 715.66,-644.8 729.23,-654.18 743.56,-661.03" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="742.49,-664.38 753.05,-665.18 745.29,-657.97 742.49,-664.38" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._unlock&#45;&gt;SUPERDEFIDistribution.ownerOf -->
+<g id="edge50" class="edge" data-name="SUPERDEFIDistribution._unlock-&gt;SUPERDEFIDistribution.ownerOf">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M632.33,-335C667.53,-335 718.45,-335 756.99,-335" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="757.01,-338.5 767.01,-335 757.01,-331.5 757.01,-338.5" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._unlock&#45;&gt;SUPERDEFIDistribution._burn -->
+<g id="edge52" class="edge" data-name="SUPERDEFIDistribution._unlock-&gt;SUPERDEFIDistribution._burn">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M627.04,-326.2C666.7,-316.48 730.41,-300.85 771.58,-290.76" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="772.65,-294.1 781.53,-288.32 770.98,-287.3 772.65,-294.1" style=""/>
+</g>
+<!-- SUPERDEFIDistribution.LockPositionWithdrawn -->
+<g id="node43" class="node" pointer-events="visible" data-name="SUPERDEFIDistribution.LockPositionWithdrawn">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="812.37" cy="-389" rx="105.97" ry="18" style=""/>
+<text text-anchor="middle" x="812.37" y="-384.8" font-family="Times,serif" font-size="14.00" style="">LockPositionWithdrawn</text>
+</g>
+<!-- SUPERDEFIDistribution._unlock&#45;&gt;SUPERDEFIDistribution.LockPositionWithdrawn -->
+<g id="edge53" class="edge" data-name="SUPERDEFIDistribution._unlock-&gt;SUPERDEFIDistribution.LockPositionWithdrawn">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M627.04,-343.8C657.81,-351.34 703.04,-362.43 741,-371.74" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="740.45,-375.21 750.99,-374.19 742.11,-368.41 740.45,-375.21" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._batchUnlock&#45;&gt;SUPERDEFIDistribution._unlock -->
+<g id="edge54" class="edge" data-name="SUPERDEFIDistribution._batchUnlock-&gt;SUPERDEFIDistribution._unlock">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M407.73,-272.42C428.98,-276.61 453.02,-282.62 473.96,-291 487.47,-296.41 488.68,-302.02 501.96,-308 515.1,-313.92 529.91,-319.04 543.54,-323.18" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="542.64,-326.56 553.22,-326.02 544.61,-319.84 542.64,-326.56" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._updateSUPERDEFIBalance&#45;&gt;SUPERDEFIDistribution._toInt256Safe -->
+<g id="edge56" class="edge" data-name="SUPERDEFIDistribution._updateSUPERDEFIBalance-&gt;SUPERDEFIDistribution._toInt256Safe">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M457.31,-535.16C463.46,-538.98 469.11,-543.55 473.96,-549 534.21,-616.71 433.61,-691.47 501.96,-751 536.85,-781.39 873.97,-764.05 918.36,-751 932.63,-746.8 961.49,-727.97 985.67,-712.35" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="987.82,-715.13 994.33,-706.77 984.03,-709.24 987.82,-715.13" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._updateSUPERDEFIBalance&#45;&gt;SUPERDEFIDistribution._toInt256Safe -->
+<g id="edge57" class="edge" data-name="SUPERDEFIDistribution._updateSUPERDEFIBalance-&gt;SUPERDEFIDistribution._toInt256Safe">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M427.11,-540.1C444.73,-545.21 461.84,-553.38 473.96,-567 534.21,-634.71 433.61,-709.47 501.96,-769 536.85,-799.39 873.97,-782.05 918.36,-769 935.98,-763.82 975.83,-736.33 1001.66,-715.2" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1004.11,-717.71 1009.51,-708.6 999.61,-712.36 1004.11,-717.71" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._updateSUPERDEFIBalance&#45;&gt;SUPERDEFIDistribution.IERC20 -->
+<g id="edge55" class="edge" data-name="SUPERDEFIDistribution._updateSUPERDEFIBalance-&gt;SUPERDEFIDistribution.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M445.32,-514.5C477.25,-510.61 511.65,-506.43 538.81,-503.13" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="539.33,-506.59 548.84,-501.91 538.49,-499.64 539.33,-506.59" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._givenWithdrawable&#45;&gt;SUPERDEFIDistribution._toInt256Safe -->
+<g id="edge59" class="edge" data-name="SUPERDEFIDistribution._givenWithdrawable-&gt;SUPERDEFIDistribution._toInt256Safe">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M900.9,-683.95C917.82,-684.91 935.39,-685.9 951.82,-686.83" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="951.7,-690.33 961.88,-687.4 952.09,-683.34 951.7,-690.33" style=""/>
+</g>
+<!-- SUPERDEFIDistribution._givenWithdrawable&#45;&gt;SUPERDEFIDistribution._toUint256Safe -->
+<g id="edge58" class="edge" data-name="SUPERDEFIDistribution._givenWithdrawable-&gt;SUPERDEFIDistribution._toUint256Safe">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M876.23,-692.04C890.35,-695.82 905.07,-700.46 918.36,-706 944.79,-717.02 972.49,-733.71 993.11,-747.29" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="991.23,-750.24 1001.49,-752.89 995.12,-744.42 991.23,-750.24" style=""/>
+</g>
+<!-- key -->
+<g id="node47" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="167.76,-938 37.76,-938 37.76,-850 167.76,-850 167.76,-938" style=""/>
+<text text-anchor="start" x="87.4" y="-919.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="83.51" y="-899.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="60.96" y="-879.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="47.36" y="-859.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node48" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="376.74,-938 322.74,-938 322.74,-850 376.74,-850 376.74,-938" style=""/>
+<text text-anchor="start" x="339.74" y="-919.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="339.74" y="-899.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="transparent" points="337.74,-874 337.74,-894 362.74,-894 362.74,-874 337.74,-874" style=""/>
+<text text-anchor="start" x="339.74" y="-879.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="339.74,-856 339.74,-872 360.74,-872 360.74,-856 339.74,-856" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge60" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M160.76,-924C235.46,-924 256.65,-924 326.54,-924" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="326.74,-927.5 336.74,-924 326.74,-920.5 326.74,-927.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge61" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M160.76,-904C235.46,-904 256.65,-904 326.54,-904" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="326.74,-907.5 336.74,-904 326.74,-900.5 326.74,-907.5" style=""/>
+</g>
+</g>
+</svg>
